@@ -1,0 +1,16 @@
+table,tr{
+    width: 70%;
+    border: 1px solid black;
+}
+th,td{
+    border: 1px solid black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+button{
+    color: white;
+    background-color: #4267B2;
+}
